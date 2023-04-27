@@ -1,7 +1,7 @@
 # Specifying an R environment with a runtime.txt file
 
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)]([http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=rstudio](https://mybinder.org/v2/gh/tyler-26-smith/Tyler-s_RStudio/HEAD?labpath=tyler_binder))
+Tyler RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tyler-26-smith/Tyler-s_RStudio/HEAD?urlpath=rstudio)
 
 
 
